@@ -1,0 +1,9 @@
+#tmp Hot Reload Air
+tmp/
+
+#Env files
+.env
+
+#Idea Directory Goland
+.idea/
+
